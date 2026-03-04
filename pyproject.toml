@@ -1,0 +1,6 @@
+[project]
+name = "notion-ollama"
+version = "0.1.0"
+description = "Notion + Ollama integration"
+requires-python = ">=3.13"
+dependencies = ["requests", "ollama", "python-dotenv"]

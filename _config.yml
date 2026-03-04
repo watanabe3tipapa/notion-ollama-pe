@@ -1,0 +1,14 @@
+title: notion-ollama
+description: Notion + Ollama integration
+theme: minima
+
+markdown: kramdown
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
+
+include:
+  - docs
