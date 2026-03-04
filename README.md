@@ -30,8 +30,7 @@ uv run python main.py
 
 ## 詳細ドキュメント
 
-- [USAGE.md](https://watanabe3tipapa.github.io/notion-ollama-pe/docs/USAGE.html) - 詳しい使い方
-- [GitHub Pages](https://watanabe3tipapa.github.io/notion-ollama-pe/docs/USAGE.html) - スタイリング済みドキュメント
+- [GitHub Pages](https://watanabe3tipapa.github.io/notion-ollama-pe/USAGE.html) - スタイリング済みドキュメント
 
 ## 必要な環境
 
